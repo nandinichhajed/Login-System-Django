@@ -11,13 +11,13 @@ Login System Using Django
 **Clone project**
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/nandinichhajed/Login-System-Django.git
 ```
 
 **Get project forlder**
 
 ```bash
-cd djangoblogs
+cd Login-System-Django
 ```
 
 **Create virtual Environment**
